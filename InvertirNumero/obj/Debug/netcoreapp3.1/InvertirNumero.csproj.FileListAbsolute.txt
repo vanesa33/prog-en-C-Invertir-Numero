@@ -1,0 +1,13 @@
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\bin\Debug\netcoreapp3.1\InvertirNumero.exe
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\bin\Debug\netcoreapp3.1\InvertirNumero.deps.json
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\bin\Debug\netcoreapp3.1\InvertirNumero.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\bin\Debug\netcoreapp3.1\InvertirNumero.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\bin\Debug\netcoreapp3.1\InvertirNumero.dll
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\bin\Debug\netcoreapp3.1\InvertirNumero.pdb
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\obj\Debug\netcoreapp3.1\InvertirNumero.csprojAssemblyReference.cache
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\obj\Debug\netcoreapp3.1\InvertirNumero.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\obj\Debug\netcoreapp3.1\InvertirNumero.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\obj\Debug\netcoreapp3.1\InvertirNumero.csproj.CoreCompileInputs.cache
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\obj\Debug\netcoreapp3.1\InvertirNumero.dll
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\obj\Debug\netcoreapp3.1\InvertirNumero.pdb
+C:\Users\Ivanesa\source\repos\InvertirNumero\InvertirNumero\obj\Debug\netcoreapp3.1\InvertirNumero.genruntimeconfig.cache
